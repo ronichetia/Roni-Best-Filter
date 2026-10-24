@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u>🚩 ʀᴀᴅʜᴇ ʀᴀᴅʜᴇ 🚩</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
@@ -157,9 +157,9 @@ Nᴀᴍᴇ - {}
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
     
-    MVE_NT_FND = NOT_FOUND_TXT = """<b>😌 ᴛʜɪꜱ ᴍᴏᴠɪᴇ ɪꜱ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.</b>
+    MVE_NT_FND = NOT_FOUND_TXT = """<b>sᴏʀʀʏ ɴᴏ ʀᴇsᴜʟᴛs ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ</b>
 
-<blockquote>😌 यह ᴍᴏᴠɪᴇ मुझे ᴍᴇʀᴇ ᴅᴀᴛᴀʙᴀꜱᴇ में नहीं मिली।</blockquote>"""
+<blockquote>ᴘʟᴇᴀsᴇ ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ᴏʀ ᴛʀʏ ᴀɴᴏᴛʜᴇʀ sᴇᴀʀᴄʜ</blockquote>"""
 
     ALREADY_AVAILABLE_TXT = """<b>ʜᴇʏ {},
     
