@@ -159,7 +159,7 @@ Nᴀᴍᴇ - {}
     
     MVE_NT_FND = NOT_FOUND_TXT = """<b>sᴏʀʀʏ ɴᴏ ʀᴇsᴜʟᴛs ꜰᴏᴜɴᴅ ꜰᴏʀ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛ</b>
 
-<blockquote>ᴘʟᴇᴀsᴇ ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ᴏʀ ᴛʀʏ ᴀɴᴏᴛʜᴇʀ sᴇᴀʀᴄʜ</blockquote>"""
+<blockquote>ᴘʟᴇᴀsᴇ ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ᴏʀ ᴛʀʏ ᴀɴᴏᴛʜᴇʀ sᴇᴀʀᴄʜ ᴊᴜsᴛ sᴇɴᴅ ɴᴀᴍᴇ ᴏɴʟʏ</blockquote>"""
 
     ALREADY_AVAILABLE_TXT = """<b>ʜᴇʏ {},
     
