@@ -1469,7 +1469,7 @@ async def auto_filter(client, msg, spoll=False):
                         try:
                             await m.edit(script.MVE_NT_FND)
                             if settings.get('auto_delete'):
-                                asyncio.create_task(_schedule_delete(m, message, 100))
+                                asyncio.create_task(_schedule_delete(m, message, 150))
                         except Exception:
                             pass
                         return
